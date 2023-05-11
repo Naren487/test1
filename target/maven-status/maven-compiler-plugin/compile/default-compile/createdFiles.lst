@@ -1,0 +1,10 @@
+com\example\Phase3project\repository\AdminRepository.class
+com\example\Phase3project\entity\purchase.class
+com\example\Phase3project\entity\admin.class
+com\example\Phase3project\controller\HomeController.class
+com\example\Phase3project\Phase3projectApplication.class
+com\example\Phase3project\repository\PurchaseRepository.class
+com\example\Phase3project\repository\ProductRepository.class
+com\example\Phase3project\repository\UserRepository.class
+com\example\Phase3project\entity\product.class
+com\example\Phase3project\entity\user.class
